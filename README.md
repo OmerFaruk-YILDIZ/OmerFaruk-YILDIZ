@@ -1,6 +1,10 @@
 # Merhaba! Ben Ömer Faruk Yıldız 👋
 
-![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png =100x100) ![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg =100x100) ![VS Logo](https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Icon_2019.svg =100x100)
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Icon_2019.svg" alt="VS Logo" width="100" height="100">
+</div>
 
 ## Hakkımda
 Ben bir bilgisayar programcılığı öğrencisiyim ve yazılım geliştirme, tasarım ve teknoloji alanında tutkuluyum. Özellikle **.NET**, **C#** ve **Onion Architecture** ile backend geliştirme üzerine çalışıyorum.
