@@ -23,7 +23,7 @@ Ben bir bilgisayar programcılığı öğrencisiyim ve yazılım geliştirme, ta
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfaruk-yildiz&layout=compact&theme=radical)
 
 ## İletişim 📬
-- **LinkedIn:** [Ömer Faruk Yıldız](https://www.linkedin.com/in/omerfaruk-yildiz/)
+- **LinkedIn:** [Ömer Faruk Yıldız]([https://www.linkedin.com/in/omerfaruk-yildiz/](https://www.linkedin.com/in/%C3%B6mer-faruk-y%C4%B1ld%C4%B1z-371176328/))
 - **E-posta:** omerfaruk_yildiz@outlook.com
 ---
 
