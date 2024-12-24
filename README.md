@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="80" height="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Visual_Studio_Logo_2022.svg" alt="VS Logo" width="100" height="100">
 </div>
 
 ## Hakkımda
